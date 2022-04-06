@@ -3,31 +3,31 @@
         2,
         [
             "neurologic",
-            "surgery",
-            "numbers",
             "offspring",
-            "total"
+            "tendency",
+            "influenced",
+            "likelihood"
         ],
         [
             10,
-            8,
             6,
-            6,
-            6
+            4,
+            4,
+            4
         ]
     ],
     "1976": [
         1,
         [
             "milk",
-            "development",
-            "large",
-            "quantities",
-            "exposure"
+            "exposure",
+            "lead",
+            "mercury",
+            "athletic"
         ],
         [
             6,
-            5,
+            3,
             3,
             3,
             3
@@ -36,14 +36,14 @@
     "1977": [
         1,
         [
-            "population",
-            "surveys",
             "comparisons",
             "prospective",
-            "also"
+            "developed",
+            "etiologic",
+            "determinants"
         ],
         [
-            5,
+            3,
             3,
             3,
             3,
@@ -53,11 +53,11 @@
     "1979": [
         1,
         [
-            "indicate",
             "birthplace",
             "development",
-            "existed",
-            "environmental"
+            "environmental",
+            "evacuees",
+            "contract"
         ],
         [
             1,
@@ -70,18 +70,35 @@
     "1981": [
         1,
         [
-            "drinking",
             "mechanical",
             "injuries",
-            "one",
-            "observed"
+            "smoking",
+            "drinking",
+            "residence"
         ],
         [
-            18,
             10,
             10,
             10,
-            10
+            9,
+            8
+        ]
+    ],
+    "1983": [
+        1,
+        [
+            "mississippi",
+            "west",
+            "lowest",
+            "rates",
+            "east"
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            1
         ]
     ],
     "1984": [
@@ -90,8 +107,8 @@
             "conducted",
             "case-control",
             "suspected",
-            "among",
-            "referral"
+            "referral",
+            "seen"
         ],
         [
             3,
@@ -105,31 +122,31 @@
         1,
         [
             "aluminum",
-            "made",
-            "dementias",
-            "role",
-            "blood-brain"
+            "barrier",
+            "outlined",
+            "concept",
+            "delayed"
         ],
         [
             11,
-            7,
-            5,
-            4,
-            4
+            3,
+            3,
+            3,
+            3
         ]
     ],
     "1986": [
         2,
         [
-            "controls",
-            "electrical",
-            "conducted",
             "putative",
-            "occupations"
+            "occupations",
+            "electrical",
+            "exposure",
+            "often"
         ],
         [
-            7,
-            6,
+            5,
+            5,
             5,
             5,
             5
@@ -138,11 +155,11 @@
     "1987": [
         1,
         [
-            "deficiency",
-            "possible",
-            "role",
             "autoimmune",
-            "accompany"
+            "accompany",
+            "classical",
+            "nerve",
+            "growth"
         ],
         [
             1,
@@ -153,50 +170,50 @@
         ]
     ],
     "1988": [
-        1,
+        2,
         [
-            "cyclosporine",
+            "progression",
             "randomized",
-            "group",
-            "trial",
-            "differences"
+            "differences",
+            "monthly",
+            "relative"
         ],
         [
             2,
             2,
-            2,
+            1,
             1,
             1
         ]
     ],
     "1989": [
-        3,
+        6,
         [
-            "hiv",
+            "case-control",
             "infection",
-            "demyelinating",
-            "manifestation",
-            "thus"
+            "types",
+            "various",
+            "stroke"
         ],
         [
+            13,
             12,
-            12,
-            6,
-            5,
-            5
+            11,
+            10,
+            10
         ]
     ],
     "1990": [
         3,
         [
-            "two",
-            "rivers",
             "probability",
             "occurred",
-            "chance"
+            "chance",
+            "less",
+            ".05"
         ],
         [
-            13,
+            8,
             8,
             8,
             8,
@@ -204,547 +221,547 @@
         ]
     ],
     "1991": [
-        9,
+        11,
         [
-            "controls",
-            "healthy",
-            "matched",
             "clinical",
-            "trauma"
+            "stroke",
+            "particularly",
+            "hypertension",
+            "investigators"
         ],
         [
-            15,
             10,
             10,
-            10,
-            8
-        ]
-    ],
-    "1992": [
-        9,
-        [
-            "alzheimer",
-            "'s",
-            "trauma",
-            "mutation",
-            "al"
-        ],
-        [
-            15,
-            13,
-            12,
-            12,
-            11
-        ]
-    ],
-    "1993": [
-        7,
-        [
-            "emnd",
-            "conducted",
-            "disorders",
-            "trauma",
-            "implicated"
-        ],
-        [
-            21,
-            11,
-            9,
-            8,
-            8
-        ]
-    ],
-    "1994": [
-        8,
-        [
-            "cancers",
-            "compared",
-            "greater",
-            "relative",
-            "hematologic"
-        ],
-        [
-            14,
-            11,
             9,
             9,
             9
         ]
     ],
-    "1995": [
-        9,
+    "1992": [
+        11,
         [
-            "age",
-            "epsilon",
-            "susceptibility",
-            "'s",
-            "environmental"
+            "infection",
+            "mutation",
+            "trauma",
+            "environmental",
+            "hypothesis"
         ],
         [
-            35,
-            15,
-            14,
-            14,
-            13
+            12,
+            12,
+            11,
+            10,
+            9
+        ]
+    ],
+    "1993": [
+        11,
+        [
+            "mortality",
+            "age",
+            "conducted",
+            "trauma",
+            "disorders"
+        ],
+        [
+            17,
+            12,
+            11,
+            9,
+            9
+        ]
+    ],
+    "1994": [
+        17,
+        [
+            "pudendal",
+            "nerve",
+            "damage",
+            "horse",
+            "cancers"
+        ],
+        [
+            16,
+            16,
+            16,
+            13,
+            11
+        ]
+    ],
+    "1995": [
+        14,
+        [
+            "age",
+            "onset",
+            "environmental",
+            "epsilon",
+            "geographic"
+        ],
+        [
+            30,
+            17,
+            13,
+            13,
+            12
         ]
     ],
     "1996": [
-        10,
+        14,
         [
-            "allele",
+            "occupational",
             "present",
-            "apo",
-            "e",
-            "prognostic"
+            "allele",
+            "prognostic",
+            "examined"
         ],
         [
-            14,
+            12,
             10,
             9,
-            9,
+            8,
             8
         ]
     ],
     "1997": [
-        7,
-        [
-            "genetic",
-            "one",
-            "mg",
-            "predictive",
-            "prognostic"
-        ],
-        [
-            12,
-            10,
-            9,
-            9,
-            8
-        ]
-    ],
-    "1998": [
-        8,
-        [
-            "exposure",
-            "rate",
-            "gene",
-            "electric",
-            "magnetic"
-        ],
-        [
-            21,
-            16,
-            15,
-            13,
-            13
-        ]
-    ],
-    "1999": [
         11,
         [
-            "whether",
-            "family",
-            "including",
-            "using",
-            "genetic"
+            "environmental",
+            "genetic",
+            "determine",
+            "familial",
+            "horses"
         ],
         [
-            12,
-            10,
-            9,
-            7,
-            7
-        ]
-    ],
-    "2000": [
-        14,
-        [
-            "influence",
-            "'s",
-            "possible",
-            "negative",
-            "physical"
-        ],
-        [
+            25,
             17,
             14,
-            12,
-            11,
-            10
-        ]
-    ],
-    "2001": [
-        8,
-        [
-            "exposure",
-            "role",
-            "neurotransmitter",
-            "glutamate",
-            "plays"
-        ],
-        [
-            29,
-            13,
-            12,
             12,
             12
         ]
     ],
-    "2002": [
-        17,
+    "1998": [
+        11,
         [
+            "exposure",
+            "magnetic",
+            "specific",
             "gene",
-            "'s",
-            "neuron",
-            "smn2",
-            "smn1"
+            "apoe"
         ],
         [
-            20,
-            19,
+            18,
+            16,
+            16,
             15,
-            13,
             13
         ]
     ],
-    "2003": [
-        16,
+    "1999": [
+        14,
         [
-            "exposure",
-            "emf",
-            "conducted",
-            "familial",
-            "occupational"
-        ],
-        [
-            20,
-            20,
-            19,
-            14,
-            14
-        ]
-    ],
-    "2004": [
-        20,
-        [
-            "also",
-            "apoe",
-            "incidence",
-            "smoking",
-            "low"
-        ],
-        [
-            20,
-            19,
-            16,
-            16,
-            16
-        ]
-    ],
-    "2005": [
-        26,
-        [
-            "years",
-            "determine",
-            "physical",
-            "age",
-            "exogenous"
-        ],
-        [
-            21,
-            21,
-            20,
-            20,
-            18
-        ]
-    ],
-    "2006": [
-        30,
-        [
-            "gene",
-            "subjects",
-            "motor",
-            "sporadic",
-            "neuron"
-        ],
-        [
-            42,
-            37,
-            33,
-            31,
-            30
-        ]
-    ],
-    "2007": [
-        34,
-        [
-            "sporadic",
-            "relationship",
-            "developing",
-            "gene",
-            "genetic"
-        ],
-        [
-            43,
-            25,
-            25,
-            25,
-            23
-        ]
-    ],
-    "2008": [
-        43,
-        [
+            "family",
             "genetic",
-            "motor",
-            "gene",
-            "susceptibility",
-            "including"
-        ],
-        [
-            41,
-            34,
-            32,
-            21,
-            19
-        ]
-    ],
-    "2009": [
-        47,
-        [
-            "sporadic",
-            "environmental",
-            "genetic",
-            "controls",
-            "including"
-        ],
-        [
-            85,
-            60,
-            60,
-            40,
-            38
-        ]
-    ],
-    "2010": [
-        41,
-        [
-            "environmental",
-            "population",
-            "head",
-            "smoking",
-            "genetic"
-        ],
-        [
-            44,
-            36,
-            35,
-            34,
-            32
-        ]
-    ],
-    "2011": [
-        51,
-        [
-            "genetic",
-            "sporadic",
-            "gene",
-            "environmental",
-            "tdp-43"
-        ],
-        [
-            80,
-            46,
-            43,
-            40,
-            34
-        ]
-    ],
-    "2012": [
-        77,
-        [
-            "genetic",
-            "'s",
-            "gene",
-            "trauma",
-            "repeat"
-        ],
-        [
-            76,
-            58,
-            57,
-            47,
-            47
-        ]
-    ],
-    "2013": [
-        76,
-        [
-            "gene",
-            "genetic",
-            "environmental",
-            "sporadic",
-            "repeat"
-        ],
-        [
-            87,
-            70,
-            43,
-            38,
-            38
-        ]
-    ],
-    "2014": [
-        80,
-        [
-            "genetic",
-            "environmental",
-            "gene",
-            "'s",
-            "repeat"
-        ],
-        [
-            145,
-            65,
-            64,
-            60,
-            56
-        ]
-    ],
-    "2015": [
-        77,
-        [
-            "genetic",
-            "environmental",
-            "including",
-            "gene",
-            "population"
-        ],
-        [
-            100,
-            51,
-            49,
-            43,
-            41
-        ]
-    ],
-    "2016": [
-        80,
-        [
-            "genetic",
-            "environmental",
-            "sporadic",
-            "gene",
-            "significantly"
-        ],
-        [
-            101,
-            74,
-            48,
-            40,
-            37
-        ]
-    ],
-    "2017": [
-        87,
-        [
-            "exposure",
-            "environmental",
-            "methods",
-            "genetic",
-            "recent"
-        ],
-        [
-            79,
-            79,
-            69,
-            65,
-            54
-        ]
-    ],
-    "2018": [
-        92,
-        [
-            "genetic",
-            "environmental",
-            "motor",
-            "age",
-            "whether"
-        ],
-        [
-            105,
-            66,
-            61,
-            61,
-            58
-        ]
-    ],
-    "2019": [
-        88,
-        [
-            "genetic",
-            "environmental",
-            "tdp-43",
-            "'s",
+            "assess",
+            "influence",
             "age"
         ],
         [
-            174,
-            90,
-            81,
-            64,
-            61
+            9,
+            7,
+            6,
+            6,
+            6
         ]
     ],
-    "2020": [
-        86,
+    "2000": [
+        16,
         [
-            "environmental",
-            "genetic",
-            "whether",
-            "'s",
-            "smoking"
+            "influence",
+            "negative",
+            "physical",
+            "chemical",
+            "parkinson"
         ],
         [
-            60,
-            59,
-            53,
-            52,
-            46
+            14,
+            11,
+            10,
+            10,
+            10
         ]
     ],
-    "2021": [
-        136,
+    "2001": [
+        12,
+        [
+            "exposure",
+            "important",
+            "plays",
+            "cell",
+            "neuronal"
+        ],
+        [
+            27,
+            13,
+            12,
+            11,
+            9
+        ]
+    ],
+    "2002": [
+        19,
+        [
+            "smn2",
+            "gene",
+            "spinal",
+            "muscular",
+            "atrophy"
+        ],
+        [
+            13,
+            13,
+            10,
+            10,
+            10
+        ]
+    ],
+    "2003": [
+        20,
+        [
+            "exposure",
+            "emf",
+            "familial",
+            "occupational",
+            "conducted"
+        ],
+        [
+            21,
+            20,
+            17,
+            16,
+            15
+        ]
+    ],
+    "2004": [
+        26,
+        [
+            "apoe",
+            "incidence",
+            "sporadic",
+            "degeneration",
+            "low"
+        ],
+        [
+            19,
+            16,
+            16,
+            15,
+            15
+        ]
+    ],
+    "2005": [
+        30,
+        [
+            "physical",
+            "years",
+            "exogenous",
+            "determine",
+            "analysis"
+        ],
+        [
+            19,
+            19,
+            18,
+            18,
+            17
+        ]
+    ],
+    "2006": [
+        39,
+        [
+            "gene",
+            "subjects",
+            "sporadic",
+            "examine",
+            "onset"
+        ],
+        [
+            42,
+            30,
+            27,
+            25,
+            24
+        ]
+    ],
+    "2007": [
+        38,
+        [
+            "genetic",
+            "sporadic",
+            "environmental",
+            "gene",
+            "developing"
+        ],
+        [
+            41,
+            30,
+            23,
+            23,
+            22
+        ]
+    ],
+    "2008": [
+        48,
+        [
+            "genetic",
+            "gene",
+            "susceptibility",
+            "development",
+            "environmental"
+        ],
+        [
+            48,
+            26,
+            26,
+            21,
+            20
+        ]
+    ],
+    "2009": [
+        52,
+        [
+            "sporadic",
+            "genetic",
+            "environmental",
+            "onset",
+            "lithium"
+        ],
+        [
+            65,
+            58,
+            46,
+            28,
+            28
+        ]
+    ],
+    "2010": [
+        50,
+        [
+            "environmental",
+            "sporadic",
+            "smoking",
+            "genetic",
+            "rural"
+        ],
+        [
+            36,
+            36,
+            34,
+            32,
+            27
+        ]
+    ],
+    "2011": [
+        59,
+        [
+            "genetic",
+            "sporadic",
+            "environmental",
+            "gene",
+            "atxn2"
+        ],
+        [
+            76,
+            41,
+            39,
+            36,
+            25
+        ]
+    ],
+    "2012": [
+        86,
+        [
+            "genetic",
+            "gene",
+            "environmental",
+            "trauma",
+            "sporadic"
+        ],
+        [
+            71,
+            56,
+            38,
+            35,
+            35
+        ]
+    ],
+    "2013": [
+        83,
+        [
+            "gene",
+            "genetic",
+            "environmental",
+            "mutations",
+            "sporadic"
+        ],
+        [
+            89,
+            64,
+            46,
+            38,
+            34
+        ]
+    ],
+    "2014": [
+        94,
+        [
+            "genetic",
+            "environmental",
+            "gene",
+            "c9orf72",
+            "mutations"
+        ],
+        [
+            148,
+            71,
+            61,
+            49,
+            45
+        ]
+    ],
+    "2015": [
+        95,
+        [
+            "genetic",
+            "environmental",
+            "age",
+            "brain",
+            "variants"
+        ],
+        [
+            117,
+            60,
+            45,
+            39,
+            39
+        ]
+    ],
+    "2016": [
+        87,
+        [
+            "genetic",
+            "environmental",
+            "sporadic",
+            "age",
+            "gene"
+        ],
+        [
+            98,
+            70,
+            34,
+            34,
+            33
+        ]
+    ],
+    "2017": [
+        102,
         [
             "genetic",
             "environmental",
             "exposure",
-            "however",
-            "role"
+            "neurological",
+            "onset"
         ],
         [
-            207,
-            114,
-            94,
-            92,
-            79
+            67,
+            66,
+            64,
+            54,
+            47
+        ]
+    ],
+    "2018": [
+        104,
+        [
+            "genetic",
+            "age",
+            "environmental",
+            "disorders",
+            "development"
+        ],
+        [
+            88,
+            61,
+            60,
+            52,
+            45
+        ]
+    ],
+    "2019": [
+        96,
+        [
+            "genetic",
+            "environmental",
+            "age",
+            "tdp-43",
+            "progression"
+        ],
+        [
+            161,
+            90,
+            62,
+            57,
+            51
+        ]
+    ],
+    "2020": [
+        105,
+        [
+            "environmental",
+            "genetic",
+            "stress",
+            "aging",
+            "disorders"
+        ],
+        [
+            66,
+            58,
+            49,
+            46,
+            43
+        ]
+    ],
+    "2021": [
+        157,
+        [
+            "genetic",
+            "environmental",
+            "exposure",
+            "onset",
+            "genes"
+        ],
+        [
+            204,
+            111,
+            88,
+            71,
+            69
         ]
     ],
     "2022": [
-        32,
+        37,
         [
             "environmental",
             "genetic",
             "pesticides",
-            "evaluate",
-            "exposure"
+            "various",
+            "progression"
         ],
         [
-            52,
-            37,
+            51,
+            33,
             28,
-            22,
-            21
+            20,
+            20
         ]
     ]
 }
