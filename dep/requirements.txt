@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+numpy
+pandas
+openpyxl
+corpus
+nltk
+ipykernel
+matplotlib
+adjustText
+
+###### Requirements with Version Specifiers ######

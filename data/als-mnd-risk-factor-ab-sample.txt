@@ -1,0 +1,177 @@
+PMID- 30401437
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190523
+LR  - 20190523
+IS  - 1942-5546 (Electronic)
+IS  - 0025-6196 (Linking)
+VI  - 93
+IP  - 11
+DP  - 2018 Nov
+TI  - Amyotrophic Lateral Sclerosis: An Update for 2018.
+PG  - 1617-1628
+LID - S0025-6196(18)30266-0 [pii]
+LID - 10.1016/j.mayocp.2018.04.007 [doi]
+AB  - Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease affecting motor 
+      neurons and other neuronal cells, leading to severe disability and eventually death 
+      from ventilatory failure. It has a prevalence of 5 in 100,000, with an incidence of 
+      1.7 per 100,000, reflecting short average survival. The pathogenesis is incompletely 
+      understood, but defects of RNA processing and protein clearance may be fundamental. 
+      Repeat expansions in the chromosome 9 open reading frame 72 gene (C9orf72) are the 
+      most common known genetic cause of ALS and are seen in approximately 40% of patients 
+      with a family history and approximately 10% of those without. No environmental risk 
+      factors are proved to be causative, but many have been proposed, including military 
+      service. The diagnosis of ALS rests on a history of painless progressive weakness 
+      coupled with examination findings of upper and lower motor dysfunction. No 
+      diagnostic test is yet available, but electromyography and genetic tests can support 
+      the diagnosis. Care for patients is best provided by a multidisciplinary team, and 
+      most interventions are directed at managing symptoms. Two medications with modest 
+      benefits have Food and Drug Administration approval for the treatment of ALS: 
+      riluzole, a glutamate receptor antagonist, and, new in 2017, edaravone, a free 
+      radical scavenger. Many other encouraging treatment strategies are being explored in 
+      clinical trials for ALS; herein we review stem cell and antisense oligonucleotide 
+      gene therapies.
+CI  - Copyright © 2018 Mayo Foundation for Medical Education and Research. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Oskarsson, Björn
+AU  - Oskarsson B
+AD  - Department of Neurology, Mayo Clinic, Jacksonville, FL. Electronic address: 
+      oskarsson.bjorn@mayo.edu.
+FAU - Gendron, Tania F
+AU  - Gendron TF
+AD  - Department of Neuroscience, Mayo Clinic, Jacksonville, FL.
+FAU - Staff, Nathan P
+AU  - Staff NP
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180704
+PL  - England
+TA  - Mayo Clin Proc
+JT  - Mayo Clinic proceedings
+JID - 0405543
+RN  - 0 (C9orf72 Protein)
+RN  - 0 (C9orf72 protein, human)
+RN  - 0 (Neuroprotective Agents)
+RN  - 7LJ087RS6F (Riluzole)
+RN  - S798V6YJRP (Edaravone)
+SB  - IM
+CIN - Mayo Clin Proc. 2018 Nov;93(11):1543-1545. PMID: 30392539
+MH  - *Amyotrophic Lateral Sclerosis/diagnosis/genetics/physiopathology/therapy
+MH  - C9orf72 Protein
+MH  - Diagnosis, Differential
+MH  - Edaravone/therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mesenchymal Stem Cell Transplantation
+MH  - Neuroprotective Agents/therapeutic use
+MH  - Riluzole/therapeutic use
+EDAT- 2018/11/08 06:00
+MHDA- 2019/05/24 06:00
+CRDT- 2018/11/08 06:00
+PHST- 2017/12/22 00:00 [received]
+PHST- 2018/03/12 00:00 [revised]
+PHST- 2018/04/13 00:00 [accepted]
+PHST- 2018/11/08 06:00 [entrez]
+PHST- 2018/11/08 06:00 [pubmed]
+PHST- 2019/05/24 06:00 [medline]
+AID - S0025-6196(18)30266-0 [pii]
+AID - 10.1016/j.mayocp.2018.04.007 [doi]
+PST - ppublish
+SO  - Mayo Clin Proc. 2018 Nov;93(11):1617-1628. doi: 10.1016/j.mayocp.2018.04.007. Epub 
+      2018 Jul 4.
+
+PMID- 31141951
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191112
+LR  - 20201109
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 20
+IP  - 11
+DP  - 2019 May 28
+TI  - Risk Factors and Emerging Therapies in Amyotrophic Lateral Sclerosis.
+LID - 10.3390/ijms20112616 [doi]
+LID - 2616
+AB  - Amyotrophic lateral sclerosis (ALS) is a fatal progressive neurodegenerative disease 
+      characterized by a permanent degeneration of both upper and lower motor neurons. 
+      Many different genes and pathophysiological processes contribute to this disease, 
+      however its exact cause remains unclear. Therefore, it is necessary to understand 
+      this heterogeneity to find effective treatments. In this review, we focus on 
+      selected environmental and genetic risk factors predisposing to ALS and highlight 
+      emerging treatments in ALS therapy. Of numerous defective genes associated with ALS, 
+      we focus on four principal genes that have been identified as definite causes of 
+      ALS: the SOD1 gene, C9orf72, TDP-43, as well as the recently identified TBK1. We 
+      also provide up-to-date information on selected environmental factors that have 
+      historically been considered as key players in ALS development and pathogenesis. In 
+      parallel to our survey of known risk factors, we also discuss emerging ALS stem cell 
+      therapies and experimental medicines currently undergoing phase II and III clinical 
+      trials.
+FAU - Nowicka, Natalia
+AU  - Nowicka N
+AUID- ORCID: 0000-0002-0468-4046
+AD  - Department of Pathophysiology, School of Medicine, Collegium Medicum, University of 
+      Warmia and Mazury, 10-900 Olsztyn, Poland. natalia.nowicka@uwm.edu.pl.
+FAU - Juranek, Jakub
+AU  - Juranek J
+AUID- ORCID: 0000-0003-2438-5235
+AD  - Institute of Psychology, Polish Academy of Sciences, Jaracza 1, 00-378 Warsaw, 
+      Poland. jakub.juranek@sd.psych.pan.pl.
+FAU - Juranek, Judyta K
+AU  - Juranek JK
+AD  - Department of Pathophysiology, School of Medicine, Collegium Medicum, University of 
+      Warmia and Mazury, 10-900 Olsztyn, Poland. judytajuranek@gmail.com.
+FAU - Wojtkiewicz, Joanna
+AU  - Wojtkiewicz J
+AUID- ORCID: 0000-0003-0856-3644
+AD  - Department of Pathophysiology, School of Medicine, Collegium Medicum, University of 
+      Warmia and Mazury, 10-900 Olsztyn, Poland. Joanna.wojtkiewicz@uwm.edu.pl.
+LA  - eng
+GR  - OPUS/2017/25/B/NZ4/00435/Narodowym Centrum Nauki/
+PT  - Journal Article
+PT  - Review
+DEP - 20190528
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (C9orf72 Protein)
+RN  - 0 (C9orf72 protein, human)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (SOD1 protein, human)
+RN  - 0 (TARDBP protein, human)
+RN  - EC 1.15.1.1 (Superoxide Dismutase-1)
+SB  - IM
+MH  - Amyotrophic Lateral Sclerosis/genetics/*metabolism/therapy
+MH  - Animals
+MH  - C9orf72 Protein/genetics/metabolism
+MH  - DNA-Binding Proteins/genetics/metabolism
+MH  - *Genetic Predisposition to Disease
+MH  - Genetic Therapy
+MH  - Humans
+MH  - Molecular Targeted Therapy
+MH  - Superoxide Dismutase-1/genetics/metabolism
+PMC - PMC6600314
+OTO - NOTNLM
+OT  - ALS
+OT  - ALS treatment
+OT  - environmental factors
+OT  - genetic factors
+OT  - risk factors
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/05/31 06:00
+MHDA- 2019/11/13 06:00
+CRDT- 2019/05/31 06:00
+PHST- 2019/04/26 00:00 [received]
+PHST- 2019/05/17 00:00 [revised]
+PHST- 2019/05/24 00:00 [accepted]
+PHST- 2019/05/31 06:00 [entrez]
+PHST- 2019/05/31 06:00 [pubmed]
+PHST- 2019/11/13 06:00 [medline]
+AID - ijms20112616 [pii]
+AID - ijms-20-02616 [pii]
+AID - 10.3390/ijms20112616 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2019 May 28;20(11):2616. doi: 10.3390/ijms20112616.
