@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+authors:
+  - family-names: Song
+    given-names: XING
+    orcid: https://orcid.org/0000-0002-3712-2904
+title: "Pubmed Literature Mining Package (Python)"
+version: 1.0.0
+doi: 
+date-released: 2022-04-12
